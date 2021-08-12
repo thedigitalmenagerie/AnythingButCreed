@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AnythingButCreed/1.0.0": {
+        "runtime": {
+          "AnythingButCreed.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnythingButCreed/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
